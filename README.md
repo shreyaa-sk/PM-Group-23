@@ -9,20 +9,6 @@ Cyber-bullying and cyber-threats utilise computerised equipment and internet-bas
 * To capture significant suspicious patterns of threat activity.
 * To **categorize** tweets based on the keywords into six categories namely ***not bullying, ethnicity, gender, age, religion and other bullying***.
 
-### Hardware Requirements ###
-* _Processor_ – Intel core i7
-* _Memory_ – 8GB RAM
-* 1TB Hard Disk Drive
-* Mouse 
-* Keyboard
-* Display device
-
-### Software Requirements ###
-* Python
-* Jupyter Notebook
-* Anaconda Navigator
-* Windows  8 or above 
-
 ### Implementation ###
 * Dataset collection
 * Preparation of dataset
@@ -45,6 +31,3 @@ Cyber-bullying and cyber-threats utilise computerised equipment and internet-bas
 
 ### Conclusion ###
 A comprehensive product is developed to setup a system in order protect the young generation from cyber bullying attacks. A real-time application of the developed model has been done. To achieve an effective model for cyberbullying, five machine learning algorithms have been chosen. Based on the accuracies, Logistic Regression algorithm using tfidfVectorizer has outperformed the rest.
-
-### Code Details ###
-_main.py_ has code to be run. _cyberbullting_tweets.csv_ is the dataset obtained from Kagle used to **train and test** the models. _cyber.pkl_ is the model with **highest accuracy** that is _saved_. 
