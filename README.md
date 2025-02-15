@@ -1,4 +1,4 @@
-# Detection-of-Cyber-Crime-on-Social-Media
+# Production Management: Social Media Cyber Crime
 Analysis and comparison of ML algorithms to identify the offensive messages on Twitter
 
 The proposed project uses **data mining algorithms** to process and analyse the data collected from Twitter. _NLP_ is used for cleaning the data. The tweets are processed to obtain the final judgement of being a ***threat or not*** and the ***category of threat*** using _five_ different algorithms, **Naive Bayes, SVM, Decision Tree, Random forest and Logistic Regression** using **Tfidf** and **Count vectorizers** and _accuracy_ is  calculated for every model.
