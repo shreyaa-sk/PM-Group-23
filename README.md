@@ -10,24 +10,14 @@ Cyber-bullying and cyber-threats utilise computerised equipment and internet-bas
 * To **categorize** tweets based on the keywords into six categories namely ***not bullying, ethnicity, gender, age, religion and other bullying***.
 
 ### Implementation ###
-* Dataset collection
-* Preparation of dataset
-* Data analysis
-* Data visualization
-* Data preprocessing
-* Vectorisation using CountVectorizer and tfidfVectorizer
-* Splitting dataset into train data and test data
+* Dataset Collection & Preparation
+* Data Analysis & Pre-Processing
+* Vectorisation using CountVectorizer & tfidfVectorizer
+* Splitting dataset into train data & test data
 * Applying Machine Learning algorithms on data
 * Computing accuracy for each algorithm
 * Result analysis 
 * Choosing the best suitable model
-* Manual Testing
-
-### Future Scope ###
-* Adding _multilinguality_ to the existing model.
-* Using _hybrid-model_ by combining two or more algorithms.
-* _Extending_ this feature to other social media platforms like instagram, facebook e.t.c.,
-* Providing additional _filtering features_ with chrome extensions.
 
 ### Conclusion ###
 A comprehensive product is developed to setup a system in order protect the young generation from cyber bullying attacks. A real-time application of the developed model has been done. To achieve an effective model for cyberbullying, five machine learning algorithms have been chosen. Based on the accuracies, Logistic Regression algorithm using tfidfVectorizer has outperformed the rest.
